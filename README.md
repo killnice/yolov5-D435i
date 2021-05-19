@@ -1,5 +1,4 @@
 # yolov5-D435i
-Introduction
 using yolov5 and realsense D435i
 
 This repository contains a moded version of PyTorch YOLOv5 (https://github.com/ultralytics/yolov5)
