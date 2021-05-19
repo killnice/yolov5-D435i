@@ -14,6 +14,7 @@ D435i是一个搭载IMU（惯性测量单元，采用的博世BMI055）的深度
 
 软件准备：
 
+
 使用pip安装所需的包
 # pip install -r requirements.txt
 
@@ -44,5 +45,4 @@ pandas
 # extras --------------------------------------
 thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
-
 
