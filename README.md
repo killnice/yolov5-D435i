@@ -25,6 +25,7 @@ pip install pyrealsense2
 # 程序运行
 
 命令行cd 进入工程文件夹下
+
 python main_debug.py
 
 
