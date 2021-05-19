@@ -19,6 +19,13 @@ D435i是一个搭载IMU（惯性测量单元，采用的博世BMI055）的深度
 使用pip安装所需的包，进入本工程目录下
 
 pip install -r requirements.txt
+
 pip install pyrealsense2
+
+# 程序运行
+
+命令行cd 进入工程文件夹下
+python main_debug.py
+
 
 
