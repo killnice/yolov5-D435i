@@ -31,6 +31,8 @@ pip install pyrealsense2
 
 python main_debug.py
 
+注意： 第一次运行程序程序会从云端下载yolov5的pt文件，大约140MB+ 
+
 运行效果：
 
 ![image](https://github.com/killnice/yolov5-D435i/blob/main/test.gif)
