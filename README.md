@@ -31,5 +31,7 @@ pip install pyrealsense2
 
 python main_debug.py
 
+运行效果：
 
+![image](https://github.com/killnice/yolov5-D435i/blob/main/test.gif)
 
